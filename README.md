@@ -21,6 +21,11 @@ Welcome to the *Wonders of the World* website! This project showcases the most i
 - style.css: The CSS file responsible for the website's design and responsiveness.  
 - *Images folder*: Includes various images representing the wonders of the world.  
 
+## Author
+
+- [Tasnim Elgarbi](https://github.com/tasnimelgarbi) – Team Member  
+- [Mohammed Gamal](https://github.com/mohammed-gamal-abdelmeged) – Team Member
+  
 ## How to Run
 
 1. Clone this repository:
