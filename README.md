@@ -23,8 +23,8 @@ Welcome to the *Wonders of the World* website! This project showcases the most i
 
 ## Author
 
-- [Tasnim Elgarbi](https://github.com/tasnimelgarbi) – Team Member  
 - [Mohammed Gamal](https://github.com/mohammed-gamal-abdelmeged) – Team Member
+- [Tasnim Elgarbi](https://github.com/tasnimelgarbi) – Team Member 
   
 ## How to Run
 
