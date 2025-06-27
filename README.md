@@ -1,6 +1,6 @@
-# Wonders of the World Website 🌍
+# Wonders of the World Website 
 
-Welcome to the *Wonders of the World* website! This project showcases the most iconic ancient and modern wonders of the world, providing visitors with detailed descriptions, stunning visuals, and an engaging experience.
+This project showcases the most iconic ancient and modern wonders of the world, providing visitors with detailed descriptions, stunning visuals, and an engaging experience.
 
 ## Features
 
@@ -25,9 +25,4 @@ Welcome to the *Wonders of the World* website! This project showcases the most i
 
 - [Mohammed Gamal](https://github.com/mohammed-gamal-abdelmeged) – Team Member
 - [Tasnim Elgarbi](https://github.com/tasnimelgarbi) – Team Member 
-  
-## How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/mohammed-gamal-abdelmeged/Wonders-of-the-World
